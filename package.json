@@ -1,0 +1,25 @@
+{
+  "name": "nyt_reach_search2",
+  "version": "1.0.0",
+  "description": "Create React components, work with helper/util functions, and utilize the React mounting lifecycle to query and display articles based on user searches. Use Node, Express and MongoDB so that users can save articles to read later.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anorris57/nyt_reach_search2.git"
+  },
+  "author": "Angela Norris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anorris57/nyt_reach_search2/issues"
+  },
+  "homepage": "https://github.com/anorris57/nyt_reach_search2#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "concurrently": "^4.0.1",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.6"
+  }
+}
