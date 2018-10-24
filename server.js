@@ -11,7 +11,6 @@ const app = express();
 // Define middleware here
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
-const path = require('path');
 
 
 //DB Config
