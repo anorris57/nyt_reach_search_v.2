@@ -22,9 +22,9 @@
   },
   "homepage": "https://github.com/anorris57/nyt_reach_search2#readme",
   "dependencies": {
-    "body-parser": "^1.19.0",
+    "body-parser": "^1.20.1",
     "concurrently": "^5.2.0",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "minimist": "^1.2.5",
     "mongoose": "^5.9.19"
   }
